@@ -1,6 +1,6 @@
 # Supported tags and respective `Dockerfile` links
 
-* `2.92`, `2`, `latest` [(2/Dockerfile)](https://github.com/antoineco/transmission-daemon/blob/027a9480b50ef20d554c83474599c1a752a55cf6/2/Dockerfile)
+* `2.92`, `2`, `latest` [(2/Dockerfile)](https://github.com/antoineco/transmission-daemon/blob/e0328e5dcac83313314f94809555ceb2401c1811/2/Dockerfile)
 
 # What is Transmission?
 
